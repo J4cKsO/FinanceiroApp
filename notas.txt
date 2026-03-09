@@ -1,2 +1,3 @@
 - Adicionado atualização automática
-- Layout otimizado
+- Total de depesas pagas
+e pendentes no relatório
