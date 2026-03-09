@@ -1,1 +1,1 @@
-- Corrigido bug de seleção de despesas e ganhos
+- Corrigido erro do tema escuro
