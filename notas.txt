@@ -1,1 +1,2 @@
-
+- Adicionado atualização automática
+- Layout otimizado
