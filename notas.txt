@@ -1,3 +1,1 @@
-- Adicionado atualização automática
-- Total de depesas pagas
-e pendentes no relatório
+- Corrigido bug de seleção de despesas e ganhos
