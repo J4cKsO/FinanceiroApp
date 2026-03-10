@@ -1,2 +1,2 @@
-17
-https://github.com/J4cKsO/FinanceiroApp/releases/download/v1.17/FinanceiroApp_v1.17_c17_debug.apk
+18
+https://github.com/J4cKsO/FinanceiroApp/releases/download/v1.18/FinanceiroApp_v1.18_c18_debug.apk
