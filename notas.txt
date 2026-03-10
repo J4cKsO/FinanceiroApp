@@ -1,1 +1,2 @@
-- Corrigido erro do tema escuro
+- Novo layout tela inicial
+- Menu lateral para atualização
