@@ -1,1 +1,2 @@
 - Adicionado notificação de atualização
+- Correção do parcelamento
