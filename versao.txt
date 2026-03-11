@@ -1,2 +1,2 @@
-20
+21
 https://github.com/J4cKsO/FinanceiroApp/releases/download/v1.20/FinanceiroApp_v1.20_c20_debug.apk
