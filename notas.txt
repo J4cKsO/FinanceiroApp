@@ -1,2 +1,3 @@
 - Adicionado notificação de atualização
 - Correção do parcelamento
+- Corrigido BUG do apk duplicado
