@@ -1,2 +1,3 @@
 - Novo layout tela inicial
 - Menu lateral para atualização
+- Sistema de ativação
