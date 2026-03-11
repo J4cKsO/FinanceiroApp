@@ -1,4 +1,1 @@
-- Novo layout tela inicial
-- Menu lateral para atualização
-- Sistema de ativação
-- Corrigido layout tela inicial
+- Adicionado notificação de atualização
