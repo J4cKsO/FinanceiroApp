@@ -3,3 +3,4 @@
 - Corrigido BUG do apk duplicado
 - Alerta de campos obrigatórios na tela ganhos e despesas
 - Correção Layout do Relatório
+- Correção de layout na aba menu
