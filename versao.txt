@@ -1,2 +1,2 @@
-26
-https://github.com/J4cKsO/FinanceiroApp/releases/download/1.26/FinanceiroApp_v1.26_c26.apk
+27
+https://github.com/J4cKsO/FinanceiroApp/releases/download/v1.27/FinanceiroApp_v1.27_c27.apk
