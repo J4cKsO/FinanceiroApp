@@ -1,2 +1,2 @@
-42
+41
 https://github.com/J4cKsO/FinanceiroApp/releases/download/v1.41/FinanceiroApp_v1.41_c41.apk
